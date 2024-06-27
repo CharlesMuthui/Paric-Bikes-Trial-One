@@ -46,7 +46,7 @@
 
 @media screen and (max-width:450px){
     section{
-        height: 200vh;
+        height: 100vh;
     }
     .secheader h1{
         font-size: 1.8rem;
