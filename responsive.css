@@ -60,7 +60,7 @@
     }
 
     .landing-page{
-        height: 100vh;
+        height: 150vh;
         display: flex;
         flex-direction: column-reverse;
         
@@ -81,7 +81,7 @@
     iframe{
        width: 100vw;
        border: 1px solid gray;
-       height: 170vh;
+       height: 100vh;
        
     }
     .footer-container{
